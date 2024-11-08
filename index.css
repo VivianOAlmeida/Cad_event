@@ -1,0 +1,18 @@
+body{
+    background-color: tomato;
+}
+
+form{
+    background-color: burlywood;
+    border: 1px solid rgb(53, 105, 66);
+    color: white;
+    border-radius: 30px;
+}
+
+button{
+    background-color: rgb(185, 149, 100);
+    color: white;
+    width: 80px;
+    height: 30px;
+    font-weight: bolder;
+}
